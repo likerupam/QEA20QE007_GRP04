@@ -22,7 +22,7 @@ Vishal Kumar Bari (873141)<br/>
 Deepali Sinha (873262)<br/>
 Anshu Aman (873237)<br/>
 Sourabh Sharma (873149)<br/>
-Rupam Mahato (873149)<br/>
+Rupam Mahato (873148)<br/>
 
 
 
