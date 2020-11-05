@@ -10,7 +10,7 @@
 
 # IMPORTANT NOTE:
 
-**1.The provided dates and number of guests are not as same as question because input is dynamic and can be changed by anyone whenever necessary.<br/>**
+**1.The provided dates and number of guests are not same as question because input is dynamic and can be changed by anyone whenever necessary.<br/>**
 
 2.If facing any kind of Element Click Exception kindly restart the project as sometimes due to slow internet speed the page loads beyond estimated time.<br/>
 
