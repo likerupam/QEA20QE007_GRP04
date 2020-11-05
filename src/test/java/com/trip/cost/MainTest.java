@@ -13,7 +13,7 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 
 
-//public class MainTest 
+public class MainTest 
 {
 	ExtentReports reports;
 	ExtentHtmlReporter htmlReporter;
